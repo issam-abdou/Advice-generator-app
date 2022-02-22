@@ -13,7 +13,7 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+
 
 ## Overview
 
@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/issam-abdou/Advice-generator-app](https://github.com/issam-abdou/Advice-generator-app)
+- Live Site URL: [https://issam-abdou.github.io/Advice-generator-app/](https://issam-abdou.github.io/Advice-generator-app/)
 
 ## My process
 
